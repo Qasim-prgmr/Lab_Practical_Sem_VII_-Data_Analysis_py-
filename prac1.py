@@ -5,4 +5,6 @@ def sumpro(*x):
         a+=i
         p*=i
     return a,p
+
+sumpro(2,4,5)
         
