@@ -4,5 +4,5 @@ def sumpro(*x):
     for i in x:
         a+=i
         p*=i
-        return a,p
+    return a,p
         
